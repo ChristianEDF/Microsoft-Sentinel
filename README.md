@@ -34,6 +34,27 @@ Setting up the ressource group associated with the subscription plan to then cre
 ![IAM](https://github.com/user-attachments/assets/4c6c1ff1-3e9f-42fe-9b6f-de2f0474f1c2)
 # 
 
+![Deployment](https://github.com/user-attachments/assets/d750b233-ac9e-4837-8cc5-aab54437c59b)
+Next step after settting up the data retention is deploying the ressourcd.
+#
+
+![Screenshot (13)](https://github.com/user-attachments/assets/903e05ec-c3f9-4240-87f9-bfe0856ea614)
+I then configure Azure Activity log.
+#
+![Screenshot (14)](https://github.com/user-attachments/assets/fffe9614-dc60-44a9-bbb0-5ff7e23e6102)
+Next is setting up the automation rule.
+#
+In the next step, the goal was to perfom a simulated attack to confirm the rules previously configured. Due to technical issue, the page wouldn't load up complete. A ticket was put in to the technical support. I will still show the command that was run to attempt to achieve this goal.
+
+![Screenshot (15)](https://github.com/user-attachments/assets/94faae10-493a-46bf-b5ae-90a11fee0e03)
+#
+
+We will now move to the incident report page and look at the interface available to detect, study and mitigate incidents
+![Screenshot (16)](https://github.com/user-attachments/assets/18cd2fc8-eac7-4ec9-aeae-874d0c65e124)
+Since I ran into an issue it currently show no incidents being reported.
+
+This concgludes this project in which in which I was able to grasp a fundamental understanding of Microsoft Sentinel to provide a Security Information and Event Management (SIEM).
+
 
 
 
